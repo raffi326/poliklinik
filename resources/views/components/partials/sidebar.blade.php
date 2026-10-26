@@ -116,8 +116,9 @@
             </a>
 
             <a href="{{ route('jadwal-periksa.index') }}"
-                class="{{ $baseLink }} {{ request()->routeIs('jadwal-periksa.*') ? $active : $inactive }}">
-                <i class="fas fa-calendar-check w-4 text-center"></i>
+                class="{{ $baseLink }} {{ request()->routeIs('jadwal-periksa.*') ? $active : $inactive }}"
+            >
+                <i class="fas fa-stethoscope w-4 text-center"></i>
                 Jadwal Periksa
             </a>
 

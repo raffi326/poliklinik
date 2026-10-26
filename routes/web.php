@@ -36,9 +36,9 @@ Route::middleware(['auth', 'role:dokter'])->prefix('dokter')->group(function () 
     Route::get('/dashboard', function () {
         return view('dokter.dashboard');
     })->name('dokter.dashboard');
+
     Route::resource('jadwal-periksa', JadwalPeriksaController::class);
 });
-
 
 Route::middleware(['auth', 'role:pasien'])->prefix('pasien')->group(function () {
     Route::get('/dashboard', function () {
