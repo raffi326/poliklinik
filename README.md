@@ -5,13 +5,13 @@
 
 ## Dokumentasi
 1. Daftar Poli (Pasien) — Screenshot halaman daftar poli yang dapat diakses oleh pasien.
-(poliklinik-app\image\imagependaftaranperiksa.png)
+![Daftar Poli (Pasien)](image/imagependaftaranperiksa.png)
 
 2. Periksa Pasien (Dokter) — Screenshot halaman pemeriksaan pasien yang digunakan oleh dokter.
-(poliklinik-app\image\imageperiksapasien.png)
+![Periksa Pasien (Dokter)](image/imageperiksapasien.png)
 
 3. Riwayat Pasien (Dokter) — Screenshot halaman riwayat pemeriksaan pasien yang dapat diakses oleh dokter.
-(poliklinik-app\image\imageriwayatpasien.png)
+![Riwayat Pasien (Dokter)](image/imageriwayatpasien.png)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
